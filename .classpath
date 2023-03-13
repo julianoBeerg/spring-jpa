@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="corporacao/src/main/java"/>
+	<classpathentry kind="src" path="corporacao/src/test/java"/>
+	<classpathentry kind="src" path="corporacao/target/generated-sources/annotations"/>
+	<classpathentry kind="src" path="rh-solid/src"/>
+	<classpathentry kind="src" path="rh/src"/>
+	<classpathentry kind="src" path="teste/src/main/java"/>
+	<classpathentry kind="src" path="teste/src/test/java"/>
+	<classpathentry kind="src" path="teste/target/generated-sources/annotations"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/FastInfoset-1.2.16.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/stax-ex-1.8.1.jar"/>
+	<classpathentry kind="lib" path="corporacao/target/corporacao/WEB-INF/lib/txw2-2.3.2.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/FastInfoset-1.2.16.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/stax-ex-1.8.1.jar"/>
+	<classpathentry kind="lib" path="teste/target/corporacao/WEB-INF/lib/txw2-2.3.2.jar"/>
+	<classpathentry kind="output" path="corporacao/target/classes"/>
+</classpath>
